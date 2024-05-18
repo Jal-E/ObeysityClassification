@@ -85,3 +85,9 @@ Future Work:
     3. Explore other ensemble methods such as boosting (e.g., AdaBoost) and bagging (e.g., Bagged Trees).
     4. Adapt the model for real-time prediction scenarios and integrate it into healthcare applications.
     5. Incorporate a more diverse dataset, including different demographics and geographical regions, to improve generalizability and robustness.
+
+References: 
+
+    1. Estimation of Obesity Levels Based On Eating Habits and Physical Condition . (2019). UCI Machine Learning Repository. https://doi.org/10.24432/C5H31Z.
+    2. Susrama, Gede, Mas Diayasa, Akhmad Fauzi, Mohammad Idhom and Aviolla Terza Damaliana. “Stacking Ensemble Methods to Predict Obesity Levels in Adults.”                                                                        
+       2022 IEEE 8th Information Technology International Seminar (ITIS) (2022): 339-344.
